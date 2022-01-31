@@ -1,0 +1,5 @@
+[default]
+entity = hamelsmu
+project = metaflow
+base_url = https://api.wandb.ai
+
